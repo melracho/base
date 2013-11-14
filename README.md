@@ -1,1 +1,1 @@
-#HTML5BP, Animate.css, Twitter Bootstrap for rapid development
+HTML5BP, Animate.css, Twitter Bootstrap for rapid development
